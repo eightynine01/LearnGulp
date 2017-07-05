@@ -1,0 +1,28 @@
+{
+  "name": "santorini-front",
+  "authors": [
+    "TaeHwan Park <eightynine01@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "app/bower_components",
+    "test",
+    "tests",
+    "bower_components",
+    "/app/bower_components"
+  ],
+  "dependencies": {
+    "angular": "^1.6.5",
+    "angular-animate": "^1.6.5",
+    "angular-route": "^1.6.5",
+    "jquery": "^3.2.1",
+    "animate.css": "^3.5.2",
+    "bootstrap": "^3.3.7",
+    "font-awesome": "fontawesome#^4.7.0"
+  }
+}
